@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Samuel from Nigeria<br><br>- 🔭 I’m working as a Freelancer<br>- 📚 I'm currently learning App Development<br>- ⚡ In my free time, I love watching movies</p>
+<p align="left">I'm Samuel from Nigeria<br><br>- 🔭 I’m working as a Freelancer<br>- 📚 I'm currently learning App Development<br>- ⚡ In my free time, I love learning new things around me</p>
 
 ###
 
